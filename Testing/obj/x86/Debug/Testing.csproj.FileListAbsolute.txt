@@ -1,0 +1,15 @@
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\Testing\obj\x86\Debug\Testing.Form1.resources
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\Testing\obj\x86\Debug\Testing.Properties.Resources.resources
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\Testing\obj\x86\Debug\Testing.csproj.GenerateResource.Cache
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\Testing\obj\x86\Debug\Testing.exe.licenses
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\Testing\bin\Debug\SqLite3.cs
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\Testing\bin\Debug\Testing.exe.config
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\Testing\bin\Debug\Testing.exe
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\Testing\bin\Debug\Testing.pdb
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\Testing\bin\Debug\DatabaseFactory.dll
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\Testing\bin\Debug\System.Data.SQLite.dll
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\Testing\bin\Debug\DatabaseFactory.pdb
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\Testing\obj\x86\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\Testing\obj\x86\Debug\Testing.exe
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\Testing\obj\x86\Debug\Testing.pdb
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\Testing\bin\Debug\System.Data.SQLite.xml

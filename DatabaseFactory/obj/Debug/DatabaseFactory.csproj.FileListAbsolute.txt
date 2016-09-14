@@ -1,0 +1,15 @@
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\DatabaseFactory\obj\Debug\DatabaseFactory.dll.licenses
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\DatabaseFactory\bin\Debug\SqLite3.cs
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\DatabaseFactory\bin\Debug\DatabaseFactory.dll.config
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\DatabaseFactory\bin\Debug\DatabaseFactory.dll
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\DatabaseFactory\bin\Debug\DatabaseFactory.pdb
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\DatabaseFactory\bin\Debug\EntityFramework.dll
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\DatabaseFactory\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\DatabaseFactory\bin\Debug\System.Data.SQLite.dll
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\DatabaseFactory\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\DatabaseFactory\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\DatabaseFactory\bin\Debug\EntityFramework.xml
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\DatabaseFactory\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\DatabaseFactory\bin\Debug\System.Data.SQLite.xml
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\DatabaseFactory\obj\Debug\DatabaseFactory.dll
+C:\Users\DeveloperOne\Documents\Visual Studio 2010\Projects\DatabaseFactory\DatabaseFactory\obj\Debug\DatabaseFactory.pdb
